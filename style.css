@@ -518,7 +518,7 @@ footer h1{
     background-color: #00000087;
     position: fixed;
     z-index: 99;
-    top: -100vh;
+    top: -110vh;
     transition: all ease 0.6s;
 }
 #full-div1{
