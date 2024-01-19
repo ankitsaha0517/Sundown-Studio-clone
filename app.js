@@ -105,6 +105,6 @@ elms.forEach(function (e, ind) {
 var loder = document.querySelector("#loder");
 document.addEventListener("onload",
     setTimeout(function(){
-        loder.style.top = "-100vh"
+        loder.style.top = "-110vh"
         },4200)
 )
