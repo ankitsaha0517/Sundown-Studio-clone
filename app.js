@@ -83,7 +83,7 @@ menu.addEventListener("click",function(){
         navImg.style.opacity = "0";
         flag = 1
     }else{
-        src.style.top = "-100%";
+        src.style.top = "-100vh";
         navImg.style.opacity = "1";
         flag=0;
     }
