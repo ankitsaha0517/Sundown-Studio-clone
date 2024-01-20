@@ -381,7 +381,7 @@ video{
     color: #EFEAE3;
 }
 #page5{
-    height: 105vh;
+    height: 100vh;
     width: 100%;
     padding: 10vw 2vw;
 
@@ -411,14 +411,14 @@ video{
 } 
 
 #page6{
-    height: 95vh;
+    min-height: 100vh;
     width: 100%;
     background-color: transparent;
 }
 footer{
     position: fixed;
     z-index: 9;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: #000;
     color: #FFF;
