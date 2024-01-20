@@ -8,7 +8,7 @@ var data = [
         line:"Our team works with our clients to refine an idea and concept into an executable design. We create a final design that encompasses the brand narrative to bring stories to life and provide end-to-end design solutions from concept, design, and architectural drawings to 3D renderings."
     },
     {
-        img:"./img/project-2.webp",
+        img:"./img/Project-2.webp",
         line:"Once we have a design, our production team takes the lead in bringing it to life. We manage all stages of the project, from build specifications and technical drawings to site surveys, vendor management, and 2D & 3D production. We have an extensive network of partners to meet each unique design and project need."
     },
     {
