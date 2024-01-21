@@ -1,7 +1,10 @@
-const scroll = new LocomotiveScroll({
-    el: document.querySelector('#main'),
-    smooth: true
-});
+const locoScroll = new LocomotiveScroll({
+  el: document.querySelector("#main"),
+  smooth: true,
+  tablet: {
+    breakpoint: 0, 
+  }
+})
 var data = [
     {
         img:"./img/project-1.webp",
